@@ -286,20 +286,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="portfolio-item cat-1 cat-2 ">
-                                <div class="portfolio-item-content">
-                                    <div class="item-thumbnail">
-                                        <img src="https://apexart.org/images/staff/anh.JPG" alt="">
-                                        
-                                    </div>
-                                    <div class="portfolio-description">
-                                        <h4><a href="mailto:ash.hagerstrand@apexart.org" >Ash<br>Hagerstrand</a></h4>
-                                        <ul class="portfolio-category">
-                                            <li><a>Director of Operations</a><br><br></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
                             <div class="portfolio-item cat-3 cat-4 ">
                                 <div class="portfolio-item-content">
                                     <div class="item-thumbnail">
@@ -328,30 +314,16 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="portfolio-item cat-5 cat-2 ">
+                            <div class="portfolio-item cat-1 cat-2 ">
                                 <div class="portfolio-item-content">
                                     <div class="item-thumbnail">
-                                        <img src="https://apexart.org/images/staff/am.jpg" alt="">
+                                        <img src="https://apexart.org/images/staff/anh.JPG" alt="">
                                         
                                     </div>
                                     <div class="portfolio-description">
-                                        <h4><a href="mailto:ariel.miles@apexart.org" >Ariel<br>Miles</a></h4>
+                                        <h4><a href="mailto:ash.hagerstrand@apexart.org" >Ash<br>Hagerstrand</a></h4>
                                         <ul class="portfolio-category">
-                                            <li><a>Director of Programs</a><br><br></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="portfolio-item cat-5 cat-2 ">
-                                <div class="portfolio-item-content">
-                                    <div class="item-thumbnail">
-                                        <img src="https://apexart.org/images/staff/b.png" alt="">
-                                        
-                                    </div>
-                                    <div class="portfolio-description">
-                                        <h4><a href="mailto:opencalls@apexart.org">Baci</a></h4>
-                                        <ul class="portfolio-category">
-                                            <li><a>Director of Treats</a><br><br><br><br></li>
+                                            <li><a>Director of Operations</a><br><br></li>
                                         </ul>
                                     </div>
                                 </div>
